@@ -1,0 +1,10 @@
+make sure pygame and openCV are already installed in your system
+
+inbuilt cameras work best
+
+place the camera right in-between the speakers
+
+pair of speakers recommended for optimum experience
+
+keep at least 1 metre distance from the camera
+
